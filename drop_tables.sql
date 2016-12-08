@@ -1,0 +1,17 @@
+DROP TABLE Prescription;
+DROP TABLE Assigned_Doctor;
+DROP TABLE Surgery;
+DROP TABLE Stay_in;
+DROP TABLE Assign_nurse;
+DROP TABLE Nurse;
+DROP TABLE Medication;
+DROP TABLE Surgeon;
+DROP TABLE Physician;
+DROP TABLE Patient_Room_Supplies;
+DROP TABLE Operation_room_Supplies;
+DROP TABLE Operation_Room;
+DROP TABLE Patient_Room;
+DROP TABLE Bill;
+DROP TABLE Guardian;
+DROP TABLE Patient_records;
+DROP TABLE Patient;

@@ -1,0 +1,17 @@
+@create_patient.sql
+@create_patient_records.sql
+@create_guardian.sql
+@create_bill.sql
+@create_patient_room.sql
+@create_operation_room.sql
+@create_operation_room_supplies.sql
+@create_patient_room_supplies.sql
+@create_physician.sql
+@create_surgeon.sql
+@create_medication.sql
+@create_nurse.sql
+@create_assign_nurse.sql
+@create_stay_in.sql
+@create_surgery.sql
+@create_assigned_doctor.sql
+@create_prescription.sql
